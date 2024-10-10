@@ -1,4 +1,6 @@
-#P2P Messaging and Knowledge Base Platform
+PLACEHOLDER
+
+#P2P Messaging and Knowledge Base Platform#
 This project is a peer-to-peer (P2P) messaging and communication platform with a built-in distributed knowledge base. It supports real-time communication via WebRTC and provides remote viewing (screen sharing) for peer support. The knowledge base is distributed using IPFS, ensuring decentralized and fail-safe access to information.
 
 Table of Contents
